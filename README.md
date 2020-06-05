@@ -9,14 +9,9 @@ Video :
 [link](https://drive.google.com/open?id=16Jn1b1LqJ3PtTR6yZSTad7mvcyAGyw64 "Tower Defense")
 
 ***
-Game :
-https://cen-paris8.github.io/unity-TowerDefense/
+Visuel :
+![GitHub Logo](visuel.PNG)
 
-![GitHub Logo](...)
-***
-To Play :  
-... 
-	
 ***
 
 Notions abordées:
